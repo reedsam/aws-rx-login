@@ -40,7 +40,7 @@
     "lodash": "^4.17.20",
     "mkdirp": "^1.0.4",
     "proxy-agent": "^5.0.0",
-    "puppeteer": "^13.6.0",
+    "puppeteer": "^21.1.0",
     "uuid": "^8.3.2"
   },
   "devDependencies": {
@@ -55,7 +55,7 @@
     "@types/uuid": "^8.3.0",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
-    "eslint": "^8.14.0",
+    "eslint": "^8.48.0",
     "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.6.2",
     "ts-node-dev": "^1.1.1",

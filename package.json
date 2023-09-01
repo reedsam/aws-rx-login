@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@aws-sdk/client-sts": "^3.328.0",
-    "@aws-sdk/node-http-handler": "^3.328.0",
+    "@smithy/node-http-handler": "^2.0.5",
     "bluebird": "^3.7.2",
     "cheerio": "^1.0.0-rc.10",
     "commander": "^9.2.0",
@@ -39,7 +39,7 @@
     "inquirer": "^8.1.1",
     "lodash": "^4.17.20",
     "mkdirp": "^1.0.4",
-    "proxy-agent": "^5.0.0",
+    "proxy-agent": "^6.3.0",
     "puppeteer": "^21.1.0",
     "uuid": "^8.3.2"
   },
